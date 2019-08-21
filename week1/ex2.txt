@@ -1,0 +1,1000 @@
+  839  gcc assigment.c
+  840  ./a.out
+  841  gcc assigment.c
+  842  ./a.out
+  843  gcc assigment.c
+  844  ./a.out
+  845  gcc assigment.c
+  846  ./a.out
+  847  gcc assigment.c
+  848  ./a.out
+  849  gcc assigment.c
+  850  ./a.out
+  851  gcc assigment.c
+  852  ./a.out
+  853  gcc assigment.c
+  854  ./a.out
+  855  gcc assigment.c
+  856  ./a.out
+  857  gcc assigment.c
+  858  ./a.out
+  859  gcc assigment.c
+  860  ./a.out
+  861  gcc assigment.c
+  862  ./a.out
+  863  gcc assigment.c
+  864  ./a.out
+  865  gcc assigment.c
+  866  ./a.out
+  867  gcc assigment.c
+  868  ./a.out
+  869  gcc assigment.c
+  870  ./a.out
+  871  gcc assigment.c
+  872  ./a.out
+  873  cd /mnt/c/user/user/desktop/Tests/TESTS
+  874  cd /mnt/c/user/user/desktop/T
+  875  cd /mnt/c/users/user/desktop/Tests/TESTS
+  876  ls
+  877  gcc assigment.c
+  878  ./.aout
+  879  ./a.out
+  880  exit
+  881  cd /mnt/c/users/user/desktop/workspace
+  882  ls
+  883  cat>new.cpp<template.cpp
+  884  name=new sh ./run.sh
+  885  exit
+  886  cd /mnt/c/users/user/desktop/workspace
+  887  cat>new.cpp<template.cpp
+  888  exit
+  889  cd /mnt/c/users/user/desktop/c
+  890  ls
+  891  cat>fact.c
+  892  gcc fact.c
+  893  ./a.out
+  894  cat>fact_goto.c
+  895  gcc fact_goto.c
+  896  ./a.out
+  897  gcc -S -Og fact.c -o fact_Og.s
+  898  gcc -S -Og fact_goto.c -o fact_goto_Og.s
+  899  exit
+  900  cd /mnt/c/users/user/desktop/c
+  901  gcc assigment.c
+  902  ./a.out
+  903  gcc -wall assigment.c
+  904  gcc -Wall assigment.c
+  905  ./a.out
+  906  cat>2.c
+  907  gcc -Wall 2.c
+  908  gcc 2.c
+  909  gcc -g3 2.c
+  910  gcc -g3 assigment.c
+  911  gcc -g3 2.c
+  912  cat>3.c
+  913  gcc 2.c
+  914  gcc 3.
+  915  gcc 3.c
+  916  gcc -S -Og 2.c -o 2Og.s
+  917  gcc -S -Og 3.c -o 3Og.s
+  918  gcc -S -O1 2.c -o 2Og.s
+  919  gcc -S -O1 3.c -o 3Og.s
+  920  cd ./
+  921  cd../
+  922  cd ./
+  923  cd ./.
+  924  cd /mnt/c/user/user/desktop/TestsV2/Tests
+  925  cd /mnt/c/users/user/desktop/TestsV2/Tests
+  926  ls
+  927  gcc assigment.c
+  928  ./a.out
+  929  nano ./input19.txt
+  930  gcc assigment.c
+  931  ./a.out
+  932  gcc assigment.c
+  933  ./a.out
+  934  gcc assigment.c
+  935  ./a.out
+  936  gcc assigment.c
+  937  ./a.out
+  938  gcc assigment.c
+  939  ./a.out
+  940  gcc assigment.c
+  941  ./a.out
+  942  gcc assigment.c
+  943  ./a.out
+  944  gcc assigment.c
+  945  ./a.out
+  946  gcc assigment.c
+  947  ./a.out
+  948  gcc assigment.c
+  949  ./a.out
+  950  gcc assigment.c
+  951  ./a.out
+  952  gcc assigment.c
+  953  ./a.out
+  954  gcc assigment.c
+  955  ./a.out
+  956  gcc assigment.c
+  957  ./a.out
+  958  gcc assigment.c
+  959  ./a.out
+  960  gcc assigment.c
+  961  ./a.out
+  962  gcc assigment.c
+  963  ./a.out
+  964  gcc assigment.c
+  965  ./a.out
+  966  gcc assigment.c
+  967  ./a.out
+  968  gcc assigment.c
+  969  ./a.out
+  970  gcc assigment.c
+  971  ./a.out
+  972  gcc assigment.c
+  973  ./a.out
+  974  gcc assigment.c
+  975  ./a.out
+  976  gcc assigment.c
+  977  ./a.out
+  978  gcc assigment.c
+  979  ./a.out
+  980  exit
+  981  cd /mnt/c/users/user/desktp/workspace
+  982  cd /mnt/c/users/user/desktop/workspace
+  983  cat>file.in
+  984  cd /mnt/c/users/user/desktop/workspace
+  985  exit
+  986  cd /mnt/c/users/user/desktop/Testsv2/tests
+  987  ls
+  988  gcc assigment.c 
+  989  ./a.out
+  990  gcc assigment.c 
+  991  ./a.out
+  992  gcc assigment.c 
+  993  ./a.out
+  994  gcc assigment.c 
+  995  ./a.out
+  996  gcc assigment.c 
+  997  ./a.out
+  998  gcc assigment.c 
+  999  ./a.out
+ 1000  gcc assigment.c 
+ 1001  ./a.out
+ 1002  gcc assigment.c 
+ 1003  ./a.out
+ 1004  cd /mnt/c/users/user/desktop/c
+ 1005  gcc assigment.c
+ 1006  ./a.out
+ 1007  gcc assigment.c
+ 1008  ./a.out
+ 1009  gcc assigment.c
+ 1010  ./a.out
+ 1011  gcc assigment.c
+ 1012  ./a.out
+ 1013  gcc assigment.c
+ 1014  ./a.out
+ 1015  gcc assigment.c
+ 1016  ./a.out
+ 1017  gcc assigment.c
+ 1018  ./a.out
+ 1019  gcc assigment.c
+ 1020  ./a.out
+ 1021  gcc assigment.c
+ 1022  ./a.out
+ 1023  gcc assigment.c
+ 1024  ./a.out
+ 1025  gcc assigment.c
+ 1026  ./a.out
+ 1027  gcc assigment.c
+ 1028  ./a.out
+ 1029  gcc assigment.c
+ 1030  ./a.out
+ 1031  gcc assigment.c
+ 1032  ./a.out
+ 1033  gcc assigment.c
+ 1034  ./a.out
+ 1035  gcc assigment.c
+ 1036  ./a.out
+ 1037  gcc assigment.c
+ 1038  ./a.out
+ 1039  gcc assigment.c
+ 1040  ./a.out
+ 1041  gcc 2.c
+ 1042  ./a.out
+ 1043  gcc 2.c
+ 1044  ./a.out
+ 1045  gcc 2.c
+ 1046  ./a.out
+ 1047  gcc 2.c
+ 1048  ./a.out
+ 1049  gcc 2.c
+ 1050  ./a.out
+ 1051  gcc 2.c
+ 1052  ./a.out
+ 1053  gcc 2.c
+ 1054  ./a.out
+ 1055  gcc 2.c
+ 1056  ./a.out
+ 1057  gcc 2.c
+ 1058  ./a.out
+ 1059  gcc 2.c
+ 1060  ./a.out
+ 1061  gcc 2.c
+ 1062  ./a.out
+ 1063  gcc 2.c
+ 1064  ./a.out
+ 1065  gcc 2.c
+ 1066  ./a.out
+ 1067  gcc 2.c
+ 1068  ./a.out
+ 1069  gcc 2.c
+ 1070  gcc assigment.c
+ 1071  ./a.out
+ 1072  gcc assigment.c
+ 1073  ./a.out
+ 1074  gcc assigment.c
+ 1075  ./a.out
+ 1076  gcc assigment.c
+ 1077  ./a.out
+ 1078  gcc assigment.c
+ 1079  ./a.out
+ 1080  gcc assigment.c
+ 1081  ./a.out
+ 1082  gcc assigment.c
+ 1083  ./a.out
+ 1084  gcc assigment.c
+ 1085  ./a.out
+ 1086  gcc assigment.c
+ 1087  ./a.out
+ 1088  gcc assigment.c
+ 1089  ./a.out
+ 1090  gcc assigment.c
+ 1091  ./a.out
+ 1092  gcc assigment.c
+ 1093  ./a.out
+ 1094  gcc assigment.c
+ 1095  ./a.out
+ 1096  gcc assigment.c
+ 1097  ./a.out
+ 1098  gcc assigment.c
+ 1099  ./a.out
+ 1100  gcc assigment.c
+ 1101  ./a.out
+ 1102  gcc assigment.c
+ 1103  ./a.out
+ 1104  exit
+ 1105  cd /mnt/c/users/user/desktop/
+ 1106  ls
+ 1107  ./
+ 1108  ./internsip OpenCv
+ 1109  cd ./internsip OpenCv
+ 1110  cd ./internship
+ 1111  cd ./task2
+ 1112  ls
+ 1113  python
+ 1114  python3
+ 1115  python3 project.py -i face0.jpg
+ 1116  python3 project.py
+ 1117  python project.py -i face0.jpg
+ 1118  python3
+ 1119  cv12
+ 1120  cv2
+ 1121  exit
+ 1122  cd /mnt/c/users/user/desktop/internship/task2
+ 1123  ls
+ 1124  ./run.sh
+ 1125  run.sh
+ 1126  sh ./run.sh
+ 1127  ./run.sh
+ 1128  nano ./run.sh
+ 1129  ./run.sh
+ 1130  sudo install python
+ 1131  pip install
+ 1132  sudo apt install python-pip
+ 1133  pip install opencv-python
+ 1134  pip install --upgrade pip
+ 1135  cv2
+ 1136  find_version.py
+ 1137  exit
+ 1138  cd /mnt/c/users/user/desktop/workspace
+ 1139  nano ./bash.sh
+ 1140  ./bash.sh
+ 1141  exit
+ 1142  cd C:\Users\user\Desktop\TestsV2\TESTS
+ 1143  cd /mnt/c/users/user/desktop/Testsv2/tests
+ 1144  ls
+ 1145  gcc assigment.c
+ 1146  ls
+ 1147  gcc assigment.c
+ 1148  ./a.out
+ 1149  gcc assigment.c
+ 1150  ./a.out
+ 1151  gcc assigment.c
+ 1152  ./a.out
+ 1153  gcc assigment.c
+ 1154  ./a.out
+ 1155  gcc assigment.c
+ 1156  ./a.out
+ 1157  gcc assigment.c
+ 1158  ./a.out
+ 1159  gcc assigment.c
+ 1160  ./a.out
+ 1161  gcc assigment.c
+ 1162  ./a.out
+ 1163  gcc assigment.c
+ 1164  ./a.out
+ 1165  gcc assigment.c
+ 1166  ./a.out
+ 1167  gcc assigment.c
+ 1168  ./a.out
+ 1169  gcc assigment.c
+ 1170  ./a.out
+ 1171  gcc assigment.c
+ 1172  ./a.out
+ 1173  gcc assigment.c
+ 1174  ./a.out
+ 1175  gcc assigment.c
+ 1176  ./a.out
+ 1177  gcc assigment.c
+ 1178  ./a.out
+ 1179  gcc assigment.c
+ 1180  ./a.out
+ 1181  gcc assigment.c
+ 1182  ./a.out
+ 1183  gcc assigment.c
+ 1184  ./a.out
+ 1185  gcc assigment.c
+ 1186  ./a.out
+ 1187  gcc assigment.c
+ 1188  ./a.out
+ 1189  gcc assigment.c
+ 1190  ./a.out
+ 1191  gcc assigment.c
+ 1192  ./a.out
+ 1193  gcc assigment.c
+ 1194  ./a.out
+ 1195  gcc assigment.c
+ 1196  ./a.out
+ 1197  gcc assigment.c
+ 1198  ./a.out
+ 1199  gcc assigment.c
+ 1200  ./a.out
+ 1201  gcc assigment.c
+ 1202  ./a.out
+ 1203  gcc assigment.c
+ 1204  ./a.out
+ 1205  gcc assigment.c
+ 1206  ./a.out
+ 1207  gcc assigment.c
+ 1208  ./a.out
+ 1209  gcc assigment.c
+ 1210  ./a.out
+ 1211  gcc assigment.c
+ 1212  ./a.out
+ 1213  gcc assigment.c
+ 1214  ./a.out
+ 1215  gcc assigment.c
+ 1216  ./a.out
+ 1217  gcc assigment.c
+ 1218  ./a.out
+ 1219  ./bash.sh
+ 1220  ./a.out
+ 1221  ./bash.sh
+ 1222  ./tester.sh
+ 1223  ./bash.sh
+ 1224  ./tester.sh
+ 1225  ./bash.sh
+ 1226  ./tester.sh
+ 1227  gcc assigment.c
+ 1228  ./a.out
+ 1229  ./tester.sh
+ 1230  gcc assigment.c
+ 1231  ./tester.sh
+ 1232  gcc assigment.c
+ 1233  ./a.out
+ 1234  gcc assigment.c
+ 1235  ./a.out
+ 1236  ./tester.sh
+ 1237  gcc assigment.c
+ 1238  ./a.out
+ 1239  ./tester.sh
+ 1240  gcc assigment.c
+ 1241  ./a.out
+ 1242  ./tester.sh
+ 1243  ./bash.sh
+ 1244  ./tester.sh
+ 1245  ./bash.sh
+ 1246  ./tester.sh
+ 1247  gcc assigment.c
+ 1248  ./a.out
+ 1249  ./tester.sh
+ 1250  cd C:\Users\user\Desktop\TestsV3\TESTS
+ 1251  cd /mnt/c/users/user/Desktop/TestsV3/TESTS
+ 1252  ls
+ 1253  gcc assigment.c
+ 1254  ./a.out
+ 1255  gcc assigment.c
+ 1256  ./a.out
+ 1257  gcc assigment.c
+ 1258  ./a.out
+ 1259  gcc assigment.c
+ 1260  ./a.out
+ 1261  gcc assigment.c
+ 1262  ./a.out
+ 1263  ./tester.sh
+ 1264  gcc assigment.c
+ 1265  ./a.out
+ 1266  gcc assigment.c
+ 1267  ./a.out
+ 1268  ./tester.sh
+ 1269  gcc assigment.c
+ 1270  ./a.out
+ 1271  gcc assigment.c
+ 1272  ./a.out
+ 1273  gcc assigment.c
+ 1274  ./a.out
+ 1275  gcc assigment.c
+ 1276  ./a.out
+ 1277  gcc assigment.c
+ 1278  ./a.out
+ 1279  ./tester.sh
+ 1280  ./a.out
+ 1281  gcc assigment.c
+ 1282  ./a.out
+ 1283  gcc assigment.c
+ 1284  ./a.out
+ 1285  gcc assigment.c
+ 1286  ./a.out
+ 1287  gcc assigment.c
+ 1288  ./a.out
+ 1289  gcc assigment.c
+ 1290  ./a.out
+ 1291  gcc assigment.c
+ 1292  ./a.out
+ 1293  gcc assigment.c
+ 1294  ./a.out
+ 1295  gcc assigment.c
+ 1296  ./a.out
+ 1297  gcc assigment.c
+ 1298  ./a.out
+ 1299  gcc assigment.c
+ 1300  ./a.out
+ 1301  gcc assigment.c
+ 1302  ./a.out
+ 1303  gcc assigment.c
+ 1304  ./a.out
+ 1305  gcc assigment.c
+ 1306  ./a.out
+ 1307  gcc assigment.c
+ 1308  ./a.out
+ 1309  gcc assigment.c
+ 1310  ./a.out
+ 1311  gcc assigment.c
+ 1312  ./a.out
+ 1313  gcc assigment.c
+ 1314  ./a.out
+ 1315  gcc assigment.c
+ 1316  ./a.out
+ 1317  gcc assigment.c
+ 1318  ./a.out
+ 1319  gcc assigment.c
+ 1320  ./a.out
+ 1321  gcc assigment.c
+ 1322  ./a.out
+ 1323  ./tester.sh
+ 1324  gcc assigment.c
+ 1325  ./tester.sh
+ 1326  gcc assigment.c
+ 1327  ./a.out
+ 1328  ./tester.sh
+ 1329  gcc assigment.c
+ 1330  ./a.out
+ 1331  ./tester.sh
+ 1332  C:\Users\user\Desktop\TestsV3\TESTS
+ 1333  cd /mnt/c/users/user/desktop/testsv3/tests
+ 1334  gcc assigment.c
+ 1335  ./a.out
+ 1336  ./tester.sh
+ 1337  ./a.out
+ 1338  gcc assigment.c
+ 1339  ./a.out
+ 1340  gcc assigment.c
+ 1341  ./a.out
+ 1342  gcc assigment.c
+ 1343  ./a.out
+ 1344  gcc assigment.c
+ 1345  ./a.out
+ 1346  gcc assigment.c
+ 1347  ./a.out
+ 1348  gcc assigment.c
+ 1349  ./a.out
+ 1350  gcc assigment.c
+ 1351  ./a.out
+ 1352  gcc assigment.c
+ 1353  ./a.out
+ 1354  gcc assigment.c
+ 1355  ./a.out
+ 1356  gcc assigment.c
+ 1357  ./a.out
+ 1358  gcc assigment.c
+ 1359  ./a.out
+ 1360  gcc assigment.c
+ 1361  ./a.out
+ 1362  gcc assigment.c
+ 1363  ./a.out
+ 1364  gcc assigment.c
+ 1365  ./a.out
+ 1366  gcc assigment.c
+ 1367  ./a.out
+ 1368  gcc assigment.c
+ 1369  ./a.out
+ 1370  gcc assigment.c
+ 1371  ./a.out
+ 1372  gcc assigment.c
+ 1373  ./a.out
+ 1374  gcc assigment.c
+ 1375  ./a.out
+ 1376  gcc assigment.c
+ 1377  ./a.out
+ 1378  gcc assigment.c
+ 1379  ./a.out
+ 1380  gcc assigment.c
+ 1381  ./a.out
+ 1382  gcc assigment.c
+ 1383  ./a.out
+ 1384  gcc assigment.c
+ 1385  ./a.out
+ 1386  ./tester.sh
+ 1387  gcc assigment.c
+ 1388  ./tester.sh
+ 1389  gcc assigment.c
+ 1390  ./a.out
+ 1391  gcc assigment.c
+ 1392  ./a.out
+ 1393  gcc assigment.c
+ 1394  ./a.out
+ 1395  gcc assigment.c
+ 1396  ./a.out
+ 1397  gcc assigment.c
+ 1398  ./a.out
+ 1399  gcc assigment.c
+ 1400  ./a.out
+ 1401  gcc assigment.c
+ 1402  ./a.out
+ 1403  gcc assigment.c
+ 1404  ./a.out
+ 1405  gcc assigment.c
+ 1406  ./a.out
+ 1407  ./tester.sh
+ 1408  gcc assigment.c
+ 1409  ./a.out
+ 1410  ./tester.sh
+ 1411  gcc assigment.c
+ 1412  ./tester.sh
+ 1413  gcc assigment.c
+ 1414  ./a.out
+ 1415  gcc assigment.c
+ 1416  ./a.out
+ 1417  gcc assigment.c
+ 1418  ./a.out
+ 1419  gcc assigment.c
+ 1420  ./a.out
+ 1421  gcc assigment.c
+ 1422  ./a.out
+ 1423  ./tester.sh
+ 1424  gcc assigment.c
+ 1425  ./a.out
+ 1426  ./tester.sh
+ 1427  gcc assigment.c
+ 1428  ./a.out
+ 1429  gcc assigment.c
+ 1430  ./a.out
+ 1431  gcc assigment.c
+ 1432  ./a.out
+ 1433  gcc assigment.c
+ 1434  ./a.out
+ 1435  gcc assigment.c
+ 1436  ./a.out
+ 1437  ./tester.sh
+ 1438  gcc assigment.c
+ 1439  ./a.out
+ 1440  ./tester.sh
+ 1441  cd /mnt/c/users/user/desktop/c
+ 1442  cd /mnt/c/users/user/desktop/workspace
+ 1443  nano bash.sh
+ 1444  ./bash.sh
+ 1445  nano bash.sh
+ 1446  ./bash.sh
+ 1447  exit
+ 1448  cd C:\Users\user\Desktop\TestsV3\TESTS
+ 1449  cd /mnt/c/users/user/desktop/testsv3/tests
+ 1450  gcc assigment.c
+ 1451  ./a.out
+ 1452  cd /mnt/c/users/user/desktop/testsv3/
+ 1453  cd /mnt/c/users/user/desktop/testsv3/tests
+ 1454  gcc assigment.c
+ 1455  ./a.out
+ 1456  ./tester.sh
+ 1457  gcc assigment.c
+ 1458  C:\Users\user\Desktop\all\all
+ 1459  cd /mnt/c/users/user/desktop/all/all
+ 1460  gcc assigment.c
+ 1461  ./a.out
+ 1462  gcc assigment.c
+ 1463  ./a.out
+ 1464  gcc assigment.c
+ 1465  ./a.out
+ 1466  gcc assigment.c
+ 1467  ./a.out
+ 1468  gcc assigment.c
+ 1469  ./a.out
+ 1470  gcc assigment.c
+ 1471  ./a.out
+ 1472  gcc assigment.c
+ 1473  ./a.out
+ 1474  gcc assigment.c
+ 1475  ./a.out
+ 1476  gcc assigment.c
+ 1477  ./a.out
+ 1478  gcc assigment.c
+ 1479  ./a.out
+ 1480  gcc assigment.c
+ 1481  ./a.out
+ 1482  gcc assigment.c
+ 1483  ./a.out
+ 1484  gcc assigment.c
+ 1485  ./a.out
+ 1486  gcc assigment.c
+ 1487  ./a.out
+ 1488  gcc assigment.c
+ 1489  ./a.out
+ 1490  gcc assigment.c
+ 1491  ./a.out
+ 1492  gcc assigment.c
+ 1493  ./a.out
+ 1494  gcc assigment.c
+ 1495  ./a.out
+ 1496  gcc assigment.c
+ 1497  ./a.out
+ 1498  gcc assigment.c
+ 1499  ./a.out
+ 1500  gcc assigment.c
+ 1501  ./a.out
+ 1502  gcc assigment.c
+ 1503  ./a.out
+ 1504  gcc assigment.c
+ 1505  ./a.out
+ 1506  gcc assigment.c
+ 1507  ./a.out
+ 1508  gcc assigment.c
+ 1509  ./a.out
+ 1510  gcc assigment.c
+ 1511  ./a.out
+ 1512  gcc assigment.c
+ 1513  ./a.out
+ 1514  gcc assigment.c
+ 1515  ./a.out
+ 1516  gcc assigment.c
+ 1517  ./a.out
+ 1518  gcc assigment.c
+ 1519  ./a.out
+ 1520  cd /mnt/c/users/user/desktop/testsv3/
+ 1521  cd /mnt/c/users/user/desktop/testsv3/tests
+ 1522  gcc assigment.c
+ 1523  ./a.out
+ 1524  ./tester.sh
+ 1525  gcc assigment.c
+ 1526  ./tester.sh
+ 1527  gcc assigment.c
+ 1528  ./a.out
+ 1529  ./tester.sh
+ 1530  gcc assigment.c
+ 1531  ./a.out
+ 1532  ./tester.sh
+ 1533  gcc assigment.c
+ 1534  ./a.out
+ 1535  ./tester.sh
+ 1536  ./a.out
+ 1537  gcc assigment.c
+ 1538  ./a.out
+ 1539  ./tester.sh
+ 1540  exit
+ 1541  C:\Users\user\Desktop\TestsV3\TESTS
+ 1542  cd /mnt/c/users/user/desktop/testsv3/tests
+ 1543  gcc assigment.c
+ 1544  ./a.ouit
+ 1545  ./a.out
+ 1546  ./tester.sh
+ 1547  gcc assigment.c
+ 1548  ./a.out
+ 1549  ./tester.sh
+ 1550  exit
+ 1551  cd /mnt/c/users/user/desktop/workspace
+ 1552  ./bash.sh
+ 1553  exit
+ 1554  C:\Users\user\Desktop\workspace
+ 1555  cd /mnt/c/users/user/desktop/workspace
+ 1556  ./bash.sh
+ 1557  exit
+ 1558  C:\Users\user\Desktop\workspace
+ 1559  cd /mnt/c/users/user/desktop/workspace
+ 1560  ./bash.sh
+ 1561  exit
+ 1562  C:\Users\user\Desktop\workspace
+ 1563  cd /mnt/c/users/user/desktop/workspace
+ 1564  ./bash.
+ 1565  ./.bash
+ 1566  ./bash.sh
+ 1567  nano bash.sh
+ 1568  ./bash.sh
+ 1569  nano ./a.out
+ 1570  nano ./b.out
+ 1571  ./bash.sh
+ 1572  exit
+ 1573  cd /mnt/c/users/user/desktop
+ 1574  .ls
+ 1575  ls
+ 1576  gcc tmp.c
+ 1577  ./a.out
+ 1578  gcc tmp.c
+ 1579  ./a.out
+ 1580  gcc tmp.c
+ 1581  ./a.out
+ 1582  gcc tmp.c
+ 1583  ./a.out
+ 1584  gcc tmp.c
+ 1585  ./a.out
+ 1586  gcc tmp.c
+ 1587  ./a.out
+ 1588  gcc tmp.c
+ 1589  ./a.out
+ 1590  gcc tmp.c
+ 1591  exit
+ 1592  cd /mnt/c/users/user/deskop
+ 1593  cd /mnt/c/users/user/desktop
+ 1594  gcc tmp.c
+ 1595  cd /mnt/c/users/user/desktop
+ 1596  gcc tmp.c
+ 1597  ./a.out
+ 1598  gcc tmp.c
+ 1599  ./a.out
+ 1600  gcc tmp.c
+ 1601  ./a.out
+ 1602  gcc tmp.c
+ 1603  ./a.out
+ 1604  gcc tmp.c
+ 1605  ./a.out
+ 1606  gcc tmp.c
+ 1607  учше
+ 1608  eüexit
+ 1609  exit
+ 1610  cd /mnt/c/users/user/desktop/workspacew
+ 1611  cd /mnt/c/users/user/desktop/workspace
+ 1612  ./bash.sh
+ 1613  ./run.sh
+ 1614  ./bash.sh
+ 1615  exit
+ 1616  sudo apt-get install pyqt4-dev-toolssudo apt-get install pyqt4-dev-tools
+ 1617  sudo apt-get install pyqt4-dev-tools
+ 1618  qdarkstyle
+ 1619  sudo install qdarkstyle
+ 1620  sudo apt-get install qdarkstyle
+ 1621  exit
+ 1622  sudo apt-get install pyqt4-dev-tools
+ 1623  apt-get update
+ 1624  --fix-missing
+ 1625  exit
+ 1626  cd /mnt/c/users/user/desktop/workspacew
+ 1627  cd /mnt/c/users/user/desktop/workspace
+ 1628  ./bash.sh
+ 1629  exit
+ 1630  cd /mnt/c/users/user/desktop/workspace
+ 1631  ./bash.sh
+ 1632  exit
+ 1633  cd /mnt/c/users/user/desktop
+ 1634  cd /mnt/c/users/user/desktop/workspace
+ 1635  cp a.cpp template.cpp
+ 1636  cp template.cpp>a.cpp
+ 1637  cp a.cpp<template.cpp>
+ 1638  nano a.cpp
+ 1639  exit
+ 1640  cd /mnt/c/users/user/desktop/workspace
+ 1641  ./run.sh
+ 1642  exit
+ 1643  cd /mnt/c/users/user/desktop/codechef/LADP
+ 1644  cd /mnt/c/users/user/desktop/codechef/LAPD
+ 1645  ls
+ 1646  ./bash.sh
+ 1647  ls
+ 1648  ./bash.sh
+ 1649  exit
+ 1650  cd /mnt/c/users/user/desktop/workspace
+ 1651  ./bash.sh
+ 1652  ./run.sh
+ 1653  cp new.cpp>dish.cpp
+ 1654  cp dish.cpp<new.cpp
+ 1655  nano dish.cpp<new.cpp
+ 1656  nano new.cpp>dish.cpp
+ 1657  cd /mnt/c/users/user/desktop/workspace
+ 1658  ./bash.sh
+ 1659  EXIT
+ 1660  exut
+ 1661  exit
+ 1662  cd /mnt/c/users/user/desktop
+ 1663  cd /mnt/c/users/user/desktop/workspace
+ 1664  ./bash.sh
+ 1665  exitg
+ 1666  exit
+ 1667  cd /mnt/c/users/user/deskop/workspace
+ 1668  cd /mnt/c/users/user/desktop/workspace
+ 1669  ./bash.sh
+ 1670  exit
+ 1671  cd /mnt/c/users/user/desktop
+ 1672  cd /mnt/c/users/user/desktop/codechef/LAPD
+ 1673  ./bash.sh
+ 1674  exit
+ 1675  cd C:\Users\user\Desktop\cpp
+ 1676  cd C:\Users\user\Desktop\cpp
+ 1677  cd /mnt/c/users/user/desktop/cpp
+ 1678  ls
+ 1679  ./compile_cpp.sh
+ 1680  ./werewolf
+ 1681  cp input.in
+ 1682  cp input.in<
+ 1683  cp input.in<asd
+ 1684  cp input.in<run_cpp.sh
+ 1685  cat>input.in
+ 1686  ./compile_cpp.sh
+ 1687  ./werewolf
+ 1688  ./compile_cpp.sh
+ 1689  ./werewolf
+ 1690  ./compile_cpp.sh
+ 1691  ./werewolf
+ 1692  ./compile_cpp.sh
+ 1693  ./werewolf
+ 1694  ./compile_cpp.sh
+ 1695  ./werewolf
+ 1696  ./compile_cpp.sh
+ 1697  ./werewolf
+ 1698  ./compile_cpp.sh
+ 1699  ./werewolf
+ 1700  ./compile_cpp.sh
+ 1701  ./werewolf
+ 1702  ./compile_cpp.sh
+ 1703  ./werewolf
+ 1704  ./compile_cpp.sh
+ 1705  ./werewolf
+ 1706  ./compile_cpp.sh
+ 1707  ./werewolf
+ 1708  ./compile_cpp.sh
+ 1709  ./werewolf
+ 1710  ./compile_cpp.sh
+ 1711  ./werewolf
+ 1712  ./compile_cpp.sh
+ 1713  ./werewolf
+ 1714  ./compile_cpp.sh
+ 1715  ./werewolf
+ 1716  ./compile_cpp.sh
+ 1717  ./werewolf
+ 1718  ./compile_cpp.sh
+ 1719  ./werewolf
+ 1720  ./compile_cpp.sh
+ 1721  ./werewolf
+ 1722  ./compile_cpp.sh
+ 1723  ./werewolf
+ 1724  ./compile_cpp.sh
+ 1725  ./werewolf
+ 1726  ./compile_cpp.sh
+ 1727  ./werewolf
+ 1728  ./compile_cpp.sh
+ 1729  ./werewolf
+ 1730  ./compile_cpp.sh
+ 1731  ./werewolf
+ 1732  ./compile_cpp.sh
+ 1733  ./werewolf
+ 1734  ./compile_cpp.sh
+ 1735  ./werewolf
+ 1736  ./compile_cpp.sh
+ 1737  ./werewolf
+ 1738  ./compile_cpp.sh
+ 1739  ./werewolf
+ 1740  ls
+ 1741  cd C:\Users\user\Desktop\cpp
+ 1742  cd /mnt/c/users/user/desktop/cpp
+ 1743  ls
+ 1744  ./grader.sh
+ 1745  ./compile_cpp.sh
+ 1746  ls
+ 1747  ./doll
+ 1748  ./run_cpp.sh
+ 1749  ./compile_cpp.sh
+ 1750  ls
+ 1751  ./compile_cpp.shexit
+ 1752  exit
+ 1753  cd /mnt/c/users/user/desktop/doll
+ 1754  ls
+ 1755  ./compile_cpp.sh
+ 1756  ls
+ 1757  ./doll
+ 1758  ./compile_cpp.sh
+ 1759  ./doll
+ 1760  ./compile_cpp.sh
+ 1761  ./doll
+ 1762  ./compile_cpp.sh
+ 1763  ./doll
+ 1764  ./compile_cpp.sh
+ 1765  ./doll
+ 1766  ./compile_cpp.sh
+ 1767  ./doll
+ 1768  ./compile_cpp.sh
+ 1769  ./doll
+ 1770  ./compile_cpp.sh
+ 1771  ./doll
+ 1772  ./compile_cpp.sh
+ 1773  ./doll
+ 1774  ./compile_cpp.sh
+ 1775  ./doll
+ 1776  ./compile_cpp.sh
+ 1777  ./doll
+ 1778  ./compile_cpp.sh
+ 1779  ./doll
+ 1780  ./compile_cpp.sh
+ 1781  ./doll
+ 1782  ./compile_cpp.sh
+ 1783  ./doll
+ 1784  ./compile_cpp.sh
+ 1785  ./doll
+ 1786  ./compile_cpp.sh
+ 1787  ./doll
+ 1788  ./compile_cpp.sh
+ 1789  ./doll
+ 1790  exit
+ 1791  cd /mnt/c/users/user/desktop/workspace
+ 1792  ./bash.sh
+ 1793  exit
+ 1794  cd /mnt/c/users/user/desktop/pr/2
+ 1795  ls
+ 1796  cd /mnt/c/users/user/desktop/pr/2/cpp
+ 1797  ls
+ 1798  ./compile_cpp.sh
+ 1799  ls
+ 1800  /job
+ 1801  /.job
+ 1802  ./job
+ 1803  exit
+ 1804  cd /mnt/c/users/user/desktop/workspace
+ 1805  ./bash.sh
+ 1806  cd /mnt/c/users/user/desktop/workspace
+ 1807  ./bash.sh
+ 1808  exit
+ 1809  cd /mnt/c/users/user/desktop
+ 1810  cd /mnt/c/users/user/desktop/isnt.sh
+ 1811  cd /mnt/c/users/user/desktop
+ 1812  ls
+ 1813  ./isnt.sh
+ 1814  exit
+ 1815  cd /mnt/c/users/user/desktop
+ 1816  ls
+ 1817  cler
+ 1818  clear
+ 1819  ls
+ 1820  cler
+ 1821  clear
+ 1822  mkdir ~/week1
+ 1823  ls
+ 1824  clear
+ 1825  whoami
+ 1826  hostname
+ 1827  man
+ 1828  man man
+ 1829  whoiam
+ 1830  whoami
+ 1831  lss
+ 1832  less
+ 1833  mkdir ~/week1
+ 1834  cd ~/week1
+ 1835  touch ex2.txt
+ 1836  ls
+ 1837  history>ex2.xtt
+ 1838  history>ex2.txt
