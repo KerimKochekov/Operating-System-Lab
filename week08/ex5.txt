@@ -1,1 +1,3 @@
-Virtual memory is not real storage unit, it is a just technique to handle programs with larger size(which not fit to physical memory) by referencing to physical memory. We have special softwares and algorithms for translating from virtual adress to physical addres. Also, I can say that virtual memory managed by OS.
+Virtual memory is not real storage unit, it is a just technique to handle programs with larger size(which not fit to physical memory) 
+by referencing to physical memory. We have special softwares and algorithms for translating from virtual adress to physical addres. 
+Also, I can say that virtual memory managed by OS.
