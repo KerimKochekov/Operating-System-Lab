@@ -1,0 +1,3 @@
+Page frame size(10) => Hit/Miss: 0.010101
+Page frame size(50) => Hit/Miss: 0.058201
+Page frame size(100) => Hit/Miss: 0.095290

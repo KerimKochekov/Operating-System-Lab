@@ -1,0 +1,7 @@
+As we know from formula that hit/miss equal to hit/total-hit, which shows us that if we want to increase the ratio we have to increase hit as much as possible
+Let our N is frame size and number of pages is M, then it is best way to give sequence us is that to keep all same pages consequtive so that each time it wants access memory it will hit the same page.
+For instance, N=4 and M=10 and sequence size 30:
+1 1 1 2 2 2 3 3 3 3 3 4 4 10 10 10 7 7 7 8 8 8 5 5 5 5 5 6 6 6
+On the other hand, if we want to decrease ratio hit/miss, we have to decrease the number of hits. To accomplish it we will keep pages consecutively distinct as possible.
+For example, N=4 and M=10 and sequence size 30:
+1 2 3 10 8 7 4 5 6 7 9 9 5 3 5 7 5 3 2 1 5 7 8 5 3 4 7 8  
