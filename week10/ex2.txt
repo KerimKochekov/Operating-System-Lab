@@ -1,0 +1,14 @@
+input1: 
+/mnt/c/users/user/desktop/week10$ link /mnt/c/users/user/desktop/week01/file.txt _ex2.txt
+find /mnt/c/users/user/desktop -inum 5348024557536343 > ex2.txt
+
+output1: 
+/mnt/c/users/user/desktop/week01/file.txt
+/mnt/c/users/user/desktop/week10/_ex2.txt
+
+input2:
+find /mnt/c/users/user/desktop -inum 5348024557536343 -exec rm {} \;
+find /mnt/c/users/user/desktop -inum 5348024557536343 > ex2.txt
+
+output2:
+

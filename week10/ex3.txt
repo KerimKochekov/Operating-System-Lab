@@ -1,0 +1,10 @@
+----------  1 user user    0 окт 24 23:35 _ex3.txt
+-rwx---rwx  1 user user    0 окт 24 23:35 _ex3.txt
+
+-rw-rw----  1 user user    0 окт 24 23:36 _ex3.txt (660)
+-rwxrwxr-x  1 user user    0 окт 24 23:36 _ex3.txt (775)
+-rwxrwxrwx  1 user user    0 окт 24 23:35 _ex3.txt (777)
+
+660 => ug=rw
+775 => ug=rwx,o=rx
+777 => ugo=rwx
