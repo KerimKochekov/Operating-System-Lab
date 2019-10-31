@@ -1,0 +1,9 @@
+first code output: 
+Hello
+Hello
+second code output:
+Hello
+
+
+so, difference is that in first code it prints "hello" without passing to new line, so parent-child works parallely waiting for new line, which we also call waiting for flush.
+but in the second code, he already flushed after "hello" so in child process it will only proceed newline command
