@@ -1,0 +1,41 @@
+$gcc copy.c
+$ time ./a.out file1.txt file2.txt
+real	0m0.001s
+user	0m0.001s
+sys		0m0.000s
+
+$ gcc copy.c -DBUF_SIZE=1
+$ time ./a.out file1.txt file2.txt
+real	0m0.048s
+user	0m0.008s
+sys		0m0.029s
+
+$ gcc copy.c -DBUF_SIZE=100
+$ time ./a.out file1.txt file2.txt
+real	0m0.001s
+user	0m0.001s
+sys		0m0.000s
+
+O_SYNC flag enabled
+
+$gcc copy.c
+$ time ./a.out file1.txt file2.txt
+real	0m0.013s
+user	0m0.000s
+sys		0m0.002s
+
+$ gcc copy.c -DBUF_SIZE=1
+$ time ./a.out file1.txt file2.txt
+real	0m3.626s
+user	0m0.000s
+sys		0m0.214s
+
+$ gcc copy.c -DBUF_SIZE=100
+$ time ./a.out file1.txt file2.txt
+real	0m0.074s
+user	0m0.000s
+sys		0m0.001s
+
+As we clearly see that disabled flag version of code works faster in smaller buffer size, but the enabled flag code works 
+much faster in bigger buffer sizes. For intance, after O_SYNC enabled and buffer size equal to one, it is even more than 3 sec, but I delibaretly stopped it. 
+
