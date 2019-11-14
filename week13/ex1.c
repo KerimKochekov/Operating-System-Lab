@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#define N 60
+#define N 512
 int n,m;
 int Work[N],Finish[N],Avaible[N],Existence[N];
 int Request[N][N],Allocation[N][N];
