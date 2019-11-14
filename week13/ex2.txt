@@ -1,0 +1,11 @@
+1)Real-time operating systems use deadlock recovery, which consists of two steps:
+a)Killing the process
+b)Resource preemption
+
+2) Deadlock prevention can be done by eliminating any of these characteresticts(mutual exclusion,
+hold and wait, no preemption, circular wait).
+
+3) Deadlock avoidance can be done with Banker’s Algorithm.
+
+Recovery method has killing process method, so it can be useful to interupt the proceses when it is not possible to predict outcome and
+we dont know how system will use resources, so it might be helpfull to  user preventing method.
